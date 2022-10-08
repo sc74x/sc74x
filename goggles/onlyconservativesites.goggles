@@ -1,0 +1,47 @@
+! name: Only Conservative Sites
+! description: Only include results from conservative sites
+! public: true
+! author: sc74x
+! avatar: #ff0000
+
+$discard
+$site=americanmind.org
+$site=americanthinker.com
+$site=amgreatness.com
+$site=bonginoreport.com
+$site=breitbart.com
+$site=cnsnews.com
+$site=commentarymagazine.com
+$site=conservativehq.com
+$site=dailycaller.com
+$site=dailysignal.com
+$site=dailywire.com
+$site=foxnews.com
+$site=freebeacon.com
+$site=frontpagemag.com
+$site=judicialwatch.org
+$site=mrc.org
+$site=nationalreview.com
+$site=newsbusters.org
+$site=newsmax.com
+$site=nypost.com
+$site=pjmedia.com
+$site=prageru.com
+$site=projectveritas.com
+$site=realclearpolitics.com
+$site=redstate.com
+$site=revolver.news
+$site=theamericanconservative.com
+$site=theblaze.com
+$site=thecollegefix.com
+$site=theconservativetreehouse.com
+$site=thefederalist.com
+$site=thegatewaypundit.com
+$site=thenationalpulse.com
+$site=thepostmillennial.com
+$site=townhall.com
+$site=trendingpolitics.com
+$site=washingtonexaminer.com
+$site=washingtontimes.com
+$site=westernjournal.com
+$site=wnd.com
