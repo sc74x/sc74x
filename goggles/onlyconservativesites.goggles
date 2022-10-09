@@ -32,7 +32,7 @@ $site=frontpagemag.com
 $site=gettr.com
 $site=humanevents.com
 $site=infowars.com
-/realdonaldtrump^$instragram.com,boost=10
+/realdonaldtrump^$site=instagram.com,boost=10
 $site=judicialwatch.org
 $site=lawenforcementtoday.com
 $site=mrc.org
