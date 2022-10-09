@@ -65,7 +65,7 @@ $site=thepostmillennial.com
 $site=townhall.com
 $site=trendingpolitics.com
 $site=truethevote.org
-$site=trumpwhitehouse.archives.gov,boost=2
+$site=trumpwhitehouse.archives.gov,boost=10
 $site=truthsocial.com
 $site=ussanews.com
 $site=washingtonexaminer.com
