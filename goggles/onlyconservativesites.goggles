@@ -5,6 +5,7 @@
 ! avatar: #ff0000
 
 $discard
+$site=45office.com,boost=10
 $site=aim.org
 $site=americanmind.org
 $site=americanthinker.com
@@ -22,6 +23,7 @@ $site=dailycaller.com
 $site=dailycitizen.focusonthefamily.com
 $site=dailysignal.com
 $site=dailywire.com
+$site=donaldjtrump.com,boost=10
 $site=deneenborelli.com
 $site=eviemagazine.com
 $site=foxnews.com
@@ -30,6 +32,7 @@ $site=frontpagemag.com
 $site=gettr.com
 $site=humanevents.com
 $site=infowars.com
+/realdonaldtrump^$instragram.com,boost=10
 $site=judicialwatch.org
 $site=lawenforcementtoday.com
 $site=mrc.org
@@ -65,8 +68,10 @@ $site=thepostmillennial.com
 $site=townhall.com
 $site=trendingpolitics.com
 $site=truethevote.org
+$site=trump.com,boost=10
+$site=trumplibrary.gov,boost=10
 $site=trumpwhitehouse.archives.gov,boost=10
-$site=truthsocial.com
+$site=truthsocial.com,boost=10
 $site=ussanews.com
 $site=washingtonexaminer.com
 $site=washingtontimes.com
