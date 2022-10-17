@@ -152,5 +152,5 @@ $site=wnd.com
 $site=worldmag.com
 $site=youngcons.com
 /realdonaldtrump^$site=instagram.com,boost=10
-/@realdonaldtrump^$site=truthsocial,boost=10
+/@realdonaldtrump^$site=truthsocial.com,boost=10
 ^mod=opinion$site=wsj.com
