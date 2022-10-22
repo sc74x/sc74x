@@ -1,8 +1,8 @@
-! name: Only Conservative Sites
-! description: Only include results from conservative sites
-! public: true
-! author: sc74x
-! avatar: #ff0000
+!name: Conservative Sites Only
+!description: Restricts results to conservative and conservative leaning sites.
+!public: true
+!author: sc74x
+!avatar: #ff0000
 
 $discard
 $site=100percentfedup.com
