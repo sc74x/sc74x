@@ -33,16 +33,15 @@ $discard,site=politico.eu
 $discard,site=scmp.com
 $discard,site=sky.com
 $discard,site=theconversation.com
+$discard,site=theguardian.com
 $discard,site=thehill.com
+$discard,site=time.com
 $discard,site=usatoday.com
 $discard,site=usmagazine.com
 $discard,site=usnews.com
 $discard,site=vox.com
 $discard,site=washingtonpost.com
-$discard,site=theguardian.com
-
-
-$site=wikipedia.org,downrank=5
+$discard,site=wikipedia.org
 
 
 $site=45office.com
