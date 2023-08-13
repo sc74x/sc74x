@@ -109,6 +109,5 @@ $site=washingtonexaminer.com,boost=2
 $site=washingtontimes.com,boost=2
 $site=westernjournal.com
 $site=wnd.com
-/realdonaldtrump^$site=instagram.com,boost=10
 /@realdonaldtrump^$site=truthsocial.com,boost=10
 /opinion^$site=wsj.com
