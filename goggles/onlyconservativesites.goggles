@@ -52,6 +52,7 @@ $site=americanmind.org
 $site=americanthinker.com
 $site=amgreatness.com
 $site=billoreilly.com
+$site=bitchute.com
 $site=bizpacreview.com
 $site=bonginoreport.com
 $site=breitbart.com,boost=2
@@ -60,6 +61,7 @@ $site=charliekirk.com
 $site=chicksontheright.com
 $site=conservapedia.com
 $site=crimeresearch.org
+$site=d.tube
 $site=dailycaller.com
 $site=dailysignal.com
 $site=dailywire.com
@@ -95,6 +97,7 @@ $site=newsbusters.org
 $site=newsmax.com,boost=2
 $site=nypost.com
 $site=oann.com
+$site=odysee.com
 $site=pjmedia.com
 $site=policetribune.com
 $site=powerlineblog.com
