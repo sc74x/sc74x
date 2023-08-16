@@ -46,8 +46,8 @@ $discard,site=wikipedia.org
 $discard,site=youtube.com
 
 
-$site=45office.com
-$site=amconmag.com
+!$site=45office.com
+!$site=amconmag.com
 $site=americanmind.org
 $site=americanthinker.com
 $site=amgreatness.com
@@ -69,7 +69,7 @@ $site=donaldjtrump.com
 $site=eviemagazine.com
 $site=firstthings.com
 $site=foxnews.com,downrank
-$site=foxnews.com,downrank
+!$site=foxnews.com,downrank
 $site=freebeacon.com
 $site=freerepublic.com
 $site=frontpagemag.com
@@ -103,7 +103,7 @@ $site=projectveritas.com
 $site=realclearpolitics.com
 $site=reason.com
 $site=redstate.com
-$site=renewamerica.com
+!$site=renewamerica.com
 $site=revolver.news
 $site=rumble.com
 $site=rushlimbaugh.com
@@ -122,7 +122,7 @@ $site=thefederalistpapers.org
 $site=thegatewaypundit.com
 $site=thenationalpulse.com
 $site=thepostmillennial.com
-$site=toddstarnes.com
+!$site=toddstarnes.com
 $site=townhall.com
 $site=trendingpolitics.com
 $site=trendingpoliticsnews.com,boost=2
