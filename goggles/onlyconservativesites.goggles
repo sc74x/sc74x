@@ -27,6 +27,7 @@ $discard,site=msnbc.com
 $discard,site=newyorker.com
 $discard,site=nbcnews.com
 $discard,site=newsweek.com
+$discard,site=npr.org
 $discard,site=nytimes.com
 $discard,site=people.com
 $discard,site=pbs.org
