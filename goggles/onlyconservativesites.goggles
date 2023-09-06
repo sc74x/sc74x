@@ -19,6 +19,7 @@ $discard,site=cnn.com
 $discard,site=complex.com
 $discard,site=courthousenews.com
 $discard,site=dailymail.co.uk
+$discard,site=flipboard.com
 $discard,site=forbes.com
 $discard,site=foreignpolicy.com
 $discard,site=france24.com
@@ -26,10 +27,13 @@ $discard,site=ft.com
 $discard,site=huffpost.com
 $discard,site=justsecurity.org
 $discard,site=mashable.com
+$discard,site=mediaite.com
+$discard,site=msn.com
 $discard,site=msnbc.com
 $discard,site=newyorker.com
 $discard,site=nbcnews.com
 $discard,site=newrepublic.com
+$discard,site=newsbreak.com
 $discard,site=newsweek.com
 $discard,site=npr.org
 $discard,site=nytimes.com
@@ -37,7 +41,9 @@ $discard,site=people.com
 $discard,site=pbs.org
 $discard,site=politico.com
 $discard,site=politico.eu
+$discard,site=politicalwire.com
 $discard,site=reuters.com
+$discard,site=rollingstone.com
 $discard,site=scmp.com
 $discard,site=sky.com
 $discard,site=theconversation.com
@@ -49,6 +55,7 @@ $discard,site=usmagazine.com
 $discard,site=usnews.com
 $discard,site=vox.com
 $discard,site=washingtonpost.com
+$discard,site=wbal.com
 $discard,site=yahoo.com
 $discard,site=youtube.com
 
@@ -69,7 +76,7 @@ $site=crimeresearch.org
 $site=dailycaller.com
 $site=dailysignal.com
 $site=dailywire.com,boost=2
-$site=donaldjtrump.com,boost=5
+$site=donaldjtrump.com,boost=10
 $site=theepochtimes.com,boost=2
 $site=eviemagazine.com
 $site=firstthings.com
