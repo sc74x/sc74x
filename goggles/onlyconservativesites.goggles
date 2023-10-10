@@ -75,11 +75,13 @@ $site=westernjournal.com
 
 
 !$discard
+$discard,site=9news.com.au
 $discard,site=abovethelaw.com
 $discard,site=abc7ny.com
 $discard,site=abcnews.go.com
 $discard,site=ajc.com
 $discard,site=aljazeera.com
+$discard,site=amnesty.org
 $discard,site=amny.com
 $discard,site=apnews.com
 $discard,site=axios.com
@@ -99,6 +101,7 @@ $discard,site=cnn.com
 $discard,site=commondreams.org
 $discard,site=complex.com
 $discard,site=courthousenews.com
+$discard,site=cp24.com
 $discard,site=ctvnews.ca
 $discard,site=dailymail.co.uk
 $discard,site=dailyherald.com
@@ -146,6 +149,7 @@ $discard,site=senate.gov
 $discard,site=sky.com
 $discard,site=snopes.com
 $discard,site=southernborder.org
+$discard,site=state.gov
 $discard,site=statesman.com
 $discard,site=telegraph.co.uk
 $discard,site=texastribune.org
