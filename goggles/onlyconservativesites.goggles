@@ -75,6 +75,7 @@ $site=westernjournal.com
 
 
 !$discard
+!$discard,site=.gov
 $discard,site=9news.com.au
 $discard,site=abovethelaw.com
 $discard,site=abc7ny.com
@@ -117,6 +118,7 @@ $discard,site=ft.com
 $discard,site=house.gov
 $discard,site=huffpost.com
 $discard,site=indianexpress.com
+$discard,site=instagram.com
 $discard,site=justsecurity.org
 $discard,site=kpbs.org
 $discard,site=latimes.com
@@ -143,6 +145,7 @@ $discard,site=politico.com
 $discard,site=politico.eu
 $discard,site=politicalwire.com
 $discard,site=reuters.com
+$discard,site=reddit.com
 $discard,site=rollingstone.com
 $discard,site=salon.com
 $discard,site=scmp.com
