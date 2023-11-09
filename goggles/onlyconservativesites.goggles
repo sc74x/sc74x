@@ -55,7 +55,7 @@ $site=theblaze.com
 $site=thecollegefix.com
 $site=theconservativetreehouse.com,boost=2
 $site=theepochtimes.com
-$site=thefederalist.com,boost=2
+$site=thefederalist.com,boost=5
 $site=thegatewaypundit.com
 $site=thenationalpulse.com
 $site=thepostmillennial.com,boost=2
@@ -147,6 +147,7 @@ $discard,site=politicalwire.com
 $discard,site=reuters.com
 $discard,site=reddit.com
 $discard,site=rollingstone.com
+$discard,site=rrdailyherald.com
 $discard,site=salon.com
 $discard,site=scmp.com
 $discard,site=seattletimes.com
