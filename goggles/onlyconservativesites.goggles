@@ -42,7 +42,7 @@ $site=powerlineblog.com
 $site=prageru.com
 $site=projectveritas.com
 $site=realclearpolitics.com
-$site=reason.com
+!$site=reason.com
 $site=redstate.com
 $site=revolver.news,boost=2
 $site=rsbnetwork.com
@@ -55,7 +55,7 @@ $site=theamericanconservative.com
 $site=theblaze.com
 $site=thecollegefix.com
 $site=theconservativetreehouse.com,boost=2
-$site=theepochtimes.com
+$site=theepochtimes.com,boost=2
 $site=thefederalist.com,boost=5
 $site=thegatewaypundit.com
 $site=thenationalpulse.com
