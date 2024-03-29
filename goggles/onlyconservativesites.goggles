@@ -70,7 +70,7 @@ $site=trumpwhitehouse.archives.gov,boost=10
 $site=twitchy.com
 /realDonaldTrump^$site=twitter.com,boost=10
 $site=washingtonexaminer.com
-$site=washingtontimes.com
+!$site=washingtontimes.com
 $site=westernjournal.com
 /opinion^$site=wsj.com
 
