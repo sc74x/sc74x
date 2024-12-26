@@ -1,5 +1,5 @@
 !name: Conservative Sites
-!description: Boosts conservative sites. Downranks liberal sites.
+!description: Only conservative sites.
 !public: true
 !author: sc74x
 !avatar: #ff0000
