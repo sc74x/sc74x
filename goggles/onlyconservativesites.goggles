@@ -73,7 +73,8 @@ $site=trump.com
 $site=trumplibrary.gov
 $site=trumpwhitehouse.archives.gov
 !/@realDonaldTrump^$site=truthsocial.com
-|https://truthsocial.com/@realDonaldTrump^$boost=4
+!|https://truthsocial.com/@realDonaldTrump^$boost=4
+|https://truthsocial.com^$boost
 $site=twitchy.com
 /realDonaldTrump^$site=twitter.com,boost=2
 $site=washingtonexaminer.com
