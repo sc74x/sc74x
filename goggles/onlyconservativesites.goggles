@@ -13,7 +13,7 @@ $site=anncoulter.com
 $site=billoreilly.com
 $site=bizpacreview.com
 $site=bonginoreport.com
-$site=breitbart.com
+$site=breitbart.com,boost=1
 $site=canadafreepress.com
 $site=climatedepot.com
 $site=climate-resistance.org
@@ -72,7 +72,8 @@ $site=trendingpoliticsnews.com
 $site=trump.com
 $site=trumplibrary.gov
 $site=trumpwhitehouse.archives.gov
-/@realdonaldtrump^$site=truthsocial.com
+!/@realDonaldTrump^$site=truthsocial.com
+|https://truthsocial.com/@realDonaldTrump^
 $site=twitchy.com
 /realDonaldTrump^$site=twitter.com
 $site=washingtonexaminer.com
