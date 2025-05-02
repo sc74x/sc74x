@@ -83,9 +83,9 @@ $site=washingtonstand.com
 !$site=washingtontimes.com
 $site=wattsupwiththat.com
 $site=westernjournal.com
-|https://whitehouse.gov/*/2025/,boost=4
-|https://whitehouse.gov/*/2026/,boost=4
-|https://whitehouse.gov/*/2027/,boost=4
-|https://whitehouse.gov/*/2028/,boost=4
+*/2025^$site=whitehouse.gov,boost=4
+*/2026^$site=whitehouse.gov,boost=4
+*/2027^$site=whitehouse.gov,boost=4
+*/2028^$site=whitehouse.gov,boost=4
 |https://wsj.com/opinion^
 |https://x.com/realDonaldTrump^,boost=4
