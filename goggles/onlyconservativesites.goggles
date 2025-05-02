@@ -78,7 +78,7 @@ $site=trumpwhitehouse.archives.gov
 $site=truthsocial.com
 $site=twitchy.com
 |https://twitter.com/realDonaldTrump^
-$site=washingtonexaminer.com
+!$site=washingtonexaminer.com
 $site=washingtonstand.com
 !$site=washingtontimes.com
 $site=wattsupwiththat.com
