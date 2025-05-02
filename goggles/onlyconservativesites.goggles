@@ -83,10 +83,10 @@ $site=washingtonstand.com
 !$site=washingtontimes.com
 $site=wattsupwiththat.com
 $site=westernjournal.com
-$site=whitehouse.gov/*/2025^
-$site=whitehouse.gov/*/2026^
-$site=whitehouse.gov/*/2027^
-$site=whitehouse.gov/*/2028^
+$site=whitehouse.gov/*/2025/
+$site=whitehouse.gov/*/2026/
+$site=whitehouse.gov/*/2027/
+$site=whitehouse.gov/*/2028/
 /opinion^$site=wsj.com
 /realDonaldTrump^$site=x.com,boost=2
 
